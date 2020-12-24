@@ -4,3 +4,7 @@ Recepies are :-
 1. Chicken Soup
 2. Pasta
 3. Paneer Chilli
+
+Food Options:
+1. Veg
+2. Non-Veg
