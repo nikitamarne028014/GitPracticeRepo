@@ -5,6 +5,10 @@ Recepies are :-
 2. Pasta
 3. Paneer Chilli
 
+Food Options:
+1. Veg
+2. Non-Veg
+
 Main Course:-
 1. Paneer kadai.
 2. Butter Roti.
@@ -12,3 +16,6 @@ Main Course:-
 4. Dal Tadka.
 5. Jeera Rice.
 6. Wheat-Nan.
+
+
+
